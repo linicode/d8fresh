@@ -1,0 +1,7 @@
+# phpstorm projects
+.idea
+
+# Generated files
+*.php~
+.DS_Store
+.swp
